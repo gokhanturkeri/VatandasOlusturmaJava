@@ -5,11 +5,19 @@ Kişi rastgele üretileceği zaman isimler “random_isimler.txt” dosyasından
 # Kullanımı
 
 1- Yeni bir MAİN classız java application oluşturulur. (Create Main Class tiki boş olacak şekilde)
+
 2- Documents\NetBeansProjects\JavaApplication\src (java application kaynak kodlarını içeren dosya) içerisinde 2 yeni dosya oluşturulur.
+
 3- Birinci dosya adı RASTGELEKISIURET konur.
+
 4- İkinci dosya adı TEST konur.
+
 5- TEST dosyasına TEST.java dosyası kopyalanır.
+
 6- RASTGELEKISIURET dosyasına geriye kalan .java dosyaları kopyalanır.
+
 7- Documents\NetBeansProjects\JavaApplication (java application dosya yolu) buraya random_isimler.txt dosyası atılır.
+
 8- Uygulama içerisinden TEST.java dosyası çalıştırılır. ( Main class olarak tanımlansın mı uyarısı çıkar ise ok'e basınız)
+
 9- random_isimler.txt dosyası istenilen şekilde değiştirilebilir.
